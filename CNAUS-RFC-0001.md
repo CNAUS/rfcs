@@ -1,3 +1,4 @@
+
 # CNAUS-RFC-0001: License Registry Framework (LRF)
 
 ## Status
@@ -17,5 +18,5 @@ Defines the CNAUS License Registry Framework with RFC-ID schema, hash-timestampi
 
 ---
 Proof-of-Existence:
-- sha256: 98f8f4679119454d9a2acf23f2abf6e40b3816f2a26bf7c60403fd1bd1f5ad10
-- timestamp_utc: 2025-08-20T20:30:45Z
+- sha256: cd3f124af21a578fd7f3ddffac58b4c63a051ca14380e6d22ef822fb7af5f67d
+- timestamp_utc: 2025-08-20T20:40:27Z
